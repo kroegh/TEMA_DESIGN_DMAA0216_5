@@ -3,7 +3,6 @@ package tuiLayer;
 public class MainMenuUI {
 
 	public MainMenuUI(){
-		System.out.println("hej");
-		
+		System.out.println("hej1");
 	}
 }
